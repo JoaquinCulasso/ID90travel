@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  # PHP service
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: id_90_travel
+    tty: true
+    stdin_open: true
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+      - ./config:/usr/local/etc/php
+volumes:
+  html: {}
+  config: {}

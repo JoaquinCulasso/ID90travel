@@ -1,0 +1,3351 @@
+[
+  {
+    "id": "06117056",
+    "name": "GR Solaris Cancun All Inclusive [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.054807662963867,
+      "longitude": -86.781494140625,
+      "description": "Near Delfines Beach"
+    },
+    "chain": "Solaris Hotels & Resorts",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 68,
+      "latest_booking_date": "2022-02-21 20:02 PM UTC",
+      "viewing_count": 4562,
+      "latest_viewing_date": "2022-02-28 03:12 AM UTC",
+      "conversion_score": 0.06709419917752188,
+      "ranking_score": 0.27899739917752187,
+      "revenue_score": 0.0045032,
+      "geography_score": 0.2074,
+      "best_seller_rank": 1,
+      "id": "43443"
+    },
+    "amenities": [
+      134217728,
+      8,
+      1048576
+    ],
+    "nights": 1,
+    "position": 0,
+    "id90": "43443",
+    "displayable_id": "nlyyqnwlgnnsmssm",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 199,
+          "overall": 7.3,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 199,
+            "overall": 7.3,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.3,
+    "display_rate": 3015.4,
+    "display_rate_with_promo": null,
+    "total": 3878.52,
+    "image": "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/6c373d9e_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/6c373d9e_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/ba19fc84_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/e31b1857_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/5c9b8e2d_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/7570e10e_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/34f49c45_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/688cddad_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/d41be013_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/4019979d_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1120000/1110100/1110099/w5549h3701x2y0-ccf7b2a0_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Delfines Beach",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": null,
+    "savings_amount": null,
+    "savings_percent": null,
+    "other_sites_prices": null,
+    "distance": 6.068125613472746,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.281357630491656,
+      "CZM": 38.453880866787394
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700076771",
+    "name": "Krystal Grand Cancun [PCNPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.1346,
+      "longitude": -86.743,
+      "description": "Cancun Hotel Zone North"
+    },
+    "chain": "Grupo Hotelero Santa Fe",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 42,
+      "latest_booking_date": "2022-02-27 16:25 PM UTC",
+      "viewing_count": 1498,
+      "latest_viewing_date": "2021-01-12 02:22 AM UTC",
+      "conversion_score": 0.04506834697408836,
+      "ranking_score": 0.26073134697408834,
+      "revenue_score": 0.008263,
+      "geography_score": 0.2074,
+      "best_seller_rank": 3,
+      "id": "801020663"
+    },
+    "amenities": [
+      134217728,
+      256
+    ],
+    "nights": 1,
+    "position": 1,
+    "id90": "801020663",
+    "displayable_id": "ylyqnnnqlqqygnlpmpqgnnpnynrnllm",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 5.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 5.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 691,
+          "overall": 7.3,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 7.3,
+            "overallCategory": "very_good",
+            "provider": "PCN"
+          },
+          {
+            "count": 691,
+            "overall": 7.3,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 5.0,
+    "review_rating": 7.3,
+    "display_rate": 3760.09,
+    "display_rate_with_promo": null,
+    "total": 4743.26,
+    "image": "//mobileimg.priceline.com/htlimg/601/601502/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/96ab8762_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/d3bcc624_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/44aa1139_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/9369237c_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/7d726ac9_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/31732f6e_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/1e7b6cfb_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/a6b59388_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/782b7001_b.jpg",
+      "//i.travelapi.com/hotels/58000000/57250000/57241000/57240936/1eba9399_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone North",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 5568.94,
+    "savings_amount": 1818.0,
+    "savings_percent": 0.33,
+    "other_sites_prices": {
+      "PCN": 4384.61,
+      "BKG": 4615.3
+    },
+    "distance": 10.678727834545482,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.970366866551615,
+      "CZM": 44.4292066795027
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0617847",
+    "name": "Golden Parnassus Resort- Adults Only All Inclusive [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.091989517211914,
+      "longitude": -86.76873016357422,
+      "description": "In Cancun (Zona Hotelera)"
+    },
+    "chain": "Independent",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 54,
+      "latest_booking_date": "2022-02-27 16:06 PM UTC",
+      "viewing_count": 3095,
+      "latest_viewing_date": "2022-02-28 03:09 AM UTC",
+      "conversion_score": 0.05606733770517664,
+      "ranking_score": 0.2569177377051766,
+      "revenue_score": 0.0065496,
+      "geography_score": 0.2074,
+      "rate_stats_factor": -1.0,
+      "best_seller_rank": 2,
+      "hotelAttributes": {
+        "adultsOnly": true
+      },
+      "id": "34903"
+    },
+    "amenities": [
+      131072,
+      2048,
+      1048576
+    ],
+    "nights": 1,
+    "position": 2,
+    "id90": "34903",
+    "displayable_id": "nlyqpsqgnnmsjnm",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 3.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 3.5,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 5,
+          "overall": 8.0,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 5,
+            "overall": 8.0,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 3.0,
+    "review_rating": 8.0,
+    "display_rate": 4637.23,
+    "display_rate_with_promo": null,
+    "total": 5977.34,
+    "image": "//i.travelapi.com/hotels/1000000/910000/904600/904536/b0ce49da_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/b0ce49da_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/074ad5eb_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/f81342c0_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/d34dcf2f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/344e37ae_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/f37bb81c_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/b1fb82a5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/d2453725_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/f2aa5e92_b.jpg",
+      "//i.travelapi.com/hotels/1000000/910000/904600/904536/a3e961d1_b.jpg"
+    ],
+    "description": null,
+    "location_description": "In Cancun (Zona Hotelera)",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": null,
+    "savings_amount": null,
+    "savings_percent": null,
+    "other_sites_prices": null,
+    "distance": 7.684875224401006,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.955676740306418,
+      "CZM": 41.14813821265923
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "061216587",
+    "name": "Aloft  Cancun [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.13524627685547,
+      "longitude": -86.74678039550781,
+      "description": "In Cancun (Zona Hotelera)"
+    },
+    "chain": "Marriott",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      },
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 32,
+      "latest_booking_date": "2022-02-26 14:37 PM UTC",
+      "viewing_count": 992,
+      "latest_viewing_date": "2022-02-28 03:10 AM UTC",
+      "conversion_score": 0.03867907978389306,
+      "ranking_score": 0.24837907978389306,
+      "revenue_score": 0.0023,
+      "geography_score": 0.2074,
+      "best_seller_rank": 5,
+      "id": "128841"
+    },
+    "amenities": [
+      131072,
+      134217728,
+      8,
+      1048576,
+      262144
+    ],
+    "nights": 1,
+    "position": 3,
+    "id90": "128841",
+    "displayable_id": "nlyrylwpqgnslrnjrlygylqnnmplmqygnnyrppsyuulrnjrly",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 204,
+          "overall": 7.0,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 204,
+            "overall": 7.0,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.0,
+    "display_rate": 1355.82,
+    "display_rate_with_promo": null,
+    "total": 1734.57,
+    "image": "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/d239bc35_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/d239bc35_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/42929cfa_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/89b2f1ed_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/db16d49a_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/cfd5a7bf_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/f6505fc3_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/6c52d692_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/d52ae2bc_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/ed7d63da_b.jpg",
+      "//i.travelapi.com/hotels/7000000/6210000/6209300/6209261/7b744b2d_b.jpg"
+    ],
+    "description": null,
+    "location_description": "In Cancun (Zona Hotelera)",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 2,
+      "type": "hotel"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 2323.0,
+    "savings_amount": 969.6,
+    "savings_percent": 0.42,
+    "other_sites_prices": {
+      "EPS": 2323.0,
+      "PCN": 1974.55
+    },
+    "distance": 10.514333315707532,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.807656421869027,
+      "CZM": 44.405255690200505
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0614718",
+    "name": "Royal Solaris Cancun Resort All Inclusive [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.04949951171875,
+      "longitude": -86.78250122070312,
+      "description": "Near Aquaworld"
+    },
+    "chain": "Solaris Hotels & Resorts",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 31,
+      "latest_booking_date": "2022-02-27 10:32 AM UTC",
+      "viewing_count": 2646,
+      "latest_viewing_date": "2022-02-28 02:38 AM UTC",
+      "conversion_score": 0.03282695822586822,
+      "ranking_score": 0.2449933582258682,
+      "revenue_score": 0.0047664000000000005,
+      "geography_score": 0.2074,
+      "id": "34295"
+    },
+    "amenities": [
+      134217728,
+      8
+    ],
+    "nights": 1,
+    "position": 4,
+    "id90": "34295",
+    "displayable_id": "nlysqypgnnmsrjw",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 312,
+          "overall": 7.8,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 312,
+            "overall": 7.8,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.8,
+    "display_rate": 3223.86,
+    "display_rate_with_promo": null,
+    "total": 4148.31,
+    "image": "//i.travelapi.com/hotels/1000000/20000/13700/13655/04f3b53c_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/04f3b53c_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/ddbe3651_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/b6f96ee3_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/cbb64d3d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/c9cdfe83_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/233b590e_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/cb408416_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/eb33492f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/6d094b7f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13700/13655/99b0aca9_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Aquaworld",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": null,
+    "savings_amount": null,
+    "savings_percent": null,
+    "other_sites_prices": null,
+    "distance": 5.954353802763269,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.154403820095287,
+      "CZM": 38.08271673394284
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700018464",
+    "name": "Grand Fiesta Americana Coral Beach Cancun [PCNPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.136,
+      "longitude": -86.7455,
+      "description": "Cancun Hotel Zone North"
+    },
+    "chain": "Hotelera Posadas",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 23,
+      "latest_booking_date": "2022-02-14 18:29 PM UTC",
+      "viewing_count": 1099,
+      "latest_viewing_date": "2022-02-28 00:10 AM UTC",
+      "conversion_score": 0.027188880715066303,
+      "ranking_score": 0.2444269607150663,
+      "revenue_score": 0.0122976,
+      "geography_score": 0.2074,
+      "rate_stats_factor": 0.8,
+      "id": "40582"
+    },
+    "amenities": [
+      256,
+      128
+    ],
+    "nights": 1,
+    "position": 5,
+    "id90": "40582",
+    "displayable_id": "ylyqnnnypslsgnnsnwpr",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 5.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 5.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 5.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 711,
+          "overall": 9.0,
+          "overallCategory": "exceptional",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 9.0,
+            "overallCategory": "exceptional",
+            "provider": "PCN"
+          },
+          {
+            "count": 711,
+            "overall": 9.0,
+            "overallCategory": "exceptional",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 5.0,
+    "review_rating": 9.0,
+    "display_rate": 7270.67,
+    "display_rate_with_promo": null,
+    "total": 9206.11,
+    "image": "//mobileimg.priceline.com/htlimg/602/602402/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/ceac7dd5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/553b6adc_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/38b60f61_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/da49e5d6_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/4e756412_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/ed792ba8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/1a97b93d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/eebc9228_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/d455bf49_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/12700/12689/bbdf7cca_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone North",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 9327.75,
+    "savings_amount": 2060.4,
+    "savings_percent": 0.22,
+    "other_sites_prices": {
+      "PCN": 9327.75
+    },
+    "distance": 10.611328831295095,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.904554061877661,
+      "CZM": 44.47785307762215
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700011732",
+    "name": "Jw Marriott Cancun Resort & Spa",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.0877,
+      "longitude": -86.7704,
+      "description": "Cancun Hotel Zone South"
+    },
+    "chain": "Marriott",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 26,
+      "latest_booking_date": "2022-02-27 12:20 PM UTC",
+      "viewing_count": 1473,
+      "latest_viewing_date": "2022-02-28 03:10 AM UTC",
+      "conversion_score": 0.029742960014418274,
+      "ranking_score": 0.24428316001441827,
+      "revenue_score": 0.007140200000000001,
+      "geography_score": 0.2074,
+      "id": "35628"
+    },
+    "amenities": [
+      134217728,
+      256
+    ],
+    "nights": 1,
+    "position": 6,
+    "id90": "35628",
+    "displayable_id": "ylyqnnnyyqmrgnswprqrngnnmwlrpuuwprqrn",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 5.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 5.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 5.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 341,
+          "overall": 8.9,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 8.9,
+            "overallCategory": "excellent",
+            "provider": "PCN"
+          },
+          {
+            "count": 341,
+            "overall": 8.9,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 5.0,
+    "review_rating": 8.9,
+    "display_rate": 3317.89,
+    "display_rate_with_promo": null,
+    "total": 4153.14,
+    "image": "//mobileimg.priceline.com/htlimg/601/601102/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/c48149c4_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/80ba6f60_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/493decaf_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/fee14d46_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/ba4793d2_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/7616b1e2_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/96021d49_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/449bccab_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/1721c8b6_b.jpg",
+      "//i.travelapi.com/hotels/1000000/590000/582800/582720/a67281d9_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone South",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 5635.8,
+    "savings_amount": 2323.0,
+    "savings_percent": 0.41,
+    "other_sites_prices": {
+      "EPS": 5635.8,
+      "PCN": 5635.8
+    },
+    "distance": 7.45513700340306,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.721749514910702,
+      "CZM": 40.834006168102654
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "061703151",
+    "name": "Dreams Natura Resort & Spa [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.111162185668945,
+      "longitude": -86.84036254882812,
+      "description": "Near Petempich Bay"
+    },
+    "chain": "AMR Collection",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      },
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 19,
+      "latest_booking_date": "2022-02-24 12:15 PM UTC",
+      "viewing_count": 281,
+      "latest_viewing_date": "2021-01-12 02:27 AM UTC",
+      "conversion_score": 0.026391425056227377,
+      "ranking_score": 0.2420666250562274,
+      "revenue_score": 0.0082752,
+      "geography_score": 0.2074,
+      "id": "212138397"
+    },
+    "amenities": [
+      131072,
+      134217728,
+      8,
+      1048576,
+      262144
+    ],
+    "nights": 1,
+    "position": 7,
+    "id90": "212138397",
+    "displayable_id": "nlyqnmywygnsmlqqlpqsgylqnmmmlnsygnnryrympmjquumlqqlpqs",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 116,
+          "overall": 7.4,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 116,
+            "overall": 7.4,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.4,
+    "display_rate": 6004.71,
+    "display_rate_with_promo": null,
+    "total": 7747.02,
+    "image": "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/193d77fc_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/193d77fc_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/b69dfa79_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/eb4f4b6d_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/e4c69b0c_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/36721469_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/89ba3a5a_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/7d778a68_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/14d8a3e3_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/d1223d93_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36780000/36776900/36776874/b8f9f271_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Petempich Bay",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      180137,
+      6050866
+    ],
+    "retail_rate": 19570.37,
+    "savings_amount": 13574.4,
+    "savings_percent": 0.69,
+    "other_sites_prices": {
+      "EPS": 19570.37,
+      "PCN": 9771.75
+    },
+    "distance": 5.357224269328053,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 5.661747350635208,
+      "CZM": 41.5122454230163
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700022053",
+    "name": "Live Aqua Beach Resort Cancun [PCNPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.10778279,
+      "longitude": -86.76315844,
+      "description": "Cancun Hotel Zone North"
+    },
+    "chain": "Hotelera Posadas",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 17,
+      "latest_booking_date": "2022-02-27 19:44 PM UTC",
+      "viewing_count": 688,
+      "latest_viewing_date": "2022-02-28 02:42 AM UTC",
+      "conversion_score": 0.021713174413308504,
+      "ranking_score": 0.2389510944133085,
+      "revenue_score": 0.0122974,
+      "geography_score": 0.2074,
+      "rate_stats_factor": 0.8,
+      "hotelAttributes": {
+        "adultsOnly": true
+      },
+      "id": "43756"
+    },
+    "amenities": [
+      134217728,
+      256,
+      64,
+      128
+    ],
+    "nights": 1,
+    "position": 8,
+    "id90": "43756",
+    "displayable_id": "ylyqnnnrrnwmgnnsmqwl",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 5.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 5.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 5.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 220,
+          "overall": 8.8,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 8.8,
+            "overallCategory": "excellent",
+            "provider": "PCN"
+          },
+          {
+            "count": 220,
+            "overall": 8.8,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 5.0,
+    "review_rating": 8.8,
+    "display_rate": 7270.71,
+    "display_rate_with_promo": null,
+    "total": 9206.09,
+    "image": "//mobileimg.priceline.com/htlimg/5329/5329205/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/772d6d78_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/1d0e84c8_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/83aa03e8_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/ed0e5546_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/458dce9c_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/911e8636_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/f46fcb16_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/ad84d54f_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/5763c568_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1150000/1140800/1140762/69fb6278_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone North",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 9327.75,
+    "savings_amount": 2060.4,
+    "savings_percent": 0.22,
+    "other_sites_prices": {
+      "PCN": 9327.55
+    },
+    "distance": 8.546509279538821,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 8.829614274178578,
+      "CZM": 42.29517918893789
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700021108",
+    "name": "Fiesta Americana Condesa Cancun",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.0816971,
+      "longitude": -86.77514791,
+      "description": "Cancun Hotel Zone South"
+    },
+    "chain": "Hotelera Posadas",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 25,
+      "latest_booking_date": "2022-02-27 17:06 PM UTC",
+      "viewing_count": 907,
+      "latest_viewing_date": "2022-02-28 02:42 AM UTC",
+      "conversion_score": 0.030635382458413064,
+      "ranking_score": 0.23031188245841305,
+      "revenue_score": 0.015447,
+      "geography_score": 0.2074,
+      "rate_stats_factor": -0.5,
+      "id": "6212"
+    },
+    "amenities": [
+      134217728,
+      256,
+      128
+    ],
+    "nights": 1,
+    "position": 9,
+    "id90": "6212",
+    "displayable_id": "ylyqnnnryynpgnsyyyrgnnlryruuyyyr",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 438,
+          "overall": 8.8,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 8.8,
+            "overallCategory": "excellent",
+            "provider": "PCN"
+          },
+          {
+            "count": 438,
+            "overall": 8.8,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.8,
+    "display_rate": 9240.03,
+    "display_rate_with_promo": null,
+    "total": 11705.6,
+    "image": "//mobileimg.priceline.com/htlimg/602/602602/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/8e9d53b4_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/e1d4b2e3_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/aea41695_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/fe67ac2d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/f062c6ff_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/76934341_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/fbb025f8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/175969ab_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/c5e262a5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/1200/1112/43cfd4ad_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone South",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 16974.87,
+    "savings_amount": 7736.6,
+    "savings_percent": 0.46,
+    "other_sites_prices": {
+      "EPS": 16974.87,
+      "PCN": 11882.25
+    },
+    "distance": 7.002346805021544,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.263738982359733,
+      "CZM": 40.35471852698987
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700254678",
+    "name": "Grand Park Royal Cancun",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.1231,
+      "longitude": -86.7539,
+      "description": "Cancun Hotel Zone North"
+    },
+    "chain": "Pan Pacific Hotels & Resorts",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 9,
+      "latest_booking_date": "2022-02-18 12:43 PM UTC",
+      "viewing_count": 633,
+      "latest_viewing_date": "2022-02-28 02:20 AM UTC",
+      "conversion_score": 0.0115773864350525,
+      "ranking_score": 0.2292493864350525,
+      "revenue_score": 0.010272000000000002,
+      "geography_score": 0.2074,
+      "id": "38407"
+    },
+    "amenities": [
+      134217728,
+      256,
+      128
+    ],
+    "nights": 1,
+    "position": 10,
+    "id90": "38407",
+    "displayable_id": "ylyqnnrwslqpgnsyjpqpgnnmpsnquuyjpqp",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 682,
+          "overall": 8.2,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 8.3,
+            "overallCategory": "excellent",
+            "provider": "PCN"
+          },
+          {
+            "count": 682,
+            "overall": 8.2,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.2,
+    "display_rate": 6352.29,
+    "display_rate_with_promo": null,
+    "total": 8077.98,
+    "image": "//mobileimg.priceline.com/htlimg/601/601402/thumbnail-300.jpg",
+    "images": [
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/190777494.jpg?k=15134fe4eea78cacadba53d0b09d5d1bf7ec905975a14e35f95fd79522394262&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/118116185.jpg?k=ba6c05623fd453695ad1fecf587db5caf4a4e452b41ea8c0cf158b1f6aa5f8a4&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/125782568.jpg?k=4581c82699d3a50a6fb7827017a5f76ead80132e4e2f5c130d5ef594e750638e&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/125783966.jpg?k=cc9926c8549cc76509096c79ad29e453e3405a3f6fa941712c73df4b457cbcdf&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/125784013.jpg?k=0ee113bcd5573edb22d395175580b3c85b685a2d4e0b1f9ac86174f09fafd67a&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/144205685.jpg?k=f68e6020f2ad69321b379e646b3c1e682071395eb0309061e357cac4b36dec43&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/16464672.jpg?k=000711f62e17d23cf37c1d3c34cb6c1ca56b7eefb7919efd1d8bba8cba92b2d7&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/16496200.jpg?k=da35b58a6ada92c248528f1e0398c3f4ed2b2ce8b7454bf63f4ea605ce0e6db6&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/179565226.jpg?k=4ed10378967f935ee0ae4fa931579b8dfd8e3b41333725d2d1512f06e9f50497&o=",
+      "//q-xx.bstatic.com/xdata/images/hotel/max500/180119412.jpg?k=45b8ef27e6e812501702b8ff92fa08fba84574e7f48a06d0f311b680d74886e0&o="
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone North",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 13025.36,
+    "savings_amount": 6686.2,
+    "savings_percent": 0.51,
+    "other_sites_prices": {
+      "EPS": 13025.36,
+      "PCN": 7880.83
+    },
+    "distance": 9.639705120950392,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 9.929272147879296,
+      "CZM": 43.47341957020254
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "06173481",
+    "name": "Emporio Cancun [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.07341957092285,
+      "longitude": -86.77576446533203,
+      "description": "Near Hotel Zone Beaches"
+    },
+    "chain": "Grupo Diestra",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 14,
+      "latest_booking_date": "2022-02-26 10:24 AM UTC",
+      "viewing_count": 942,
+      "latest_viewing_date": "2022-02-28 03:12 AM UTC",
+      "conversion_score": 0.017049897278204693,
+      "ranking_score": 0.2284182972782047,
+      "revenue_score": 0.0039683999999999995,
+      "geography_score": 0.2074,
+      "id": "44317"
+    },
+    "amenities": [
+      134217728,
+      1048576
+    ],
+    "nights": 1,
+    "position": 11,
+    "id90": "44317",
+    "displayable_id": "nlyqmspygylqnnyqjrwygnnssmyq",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 1248,
+          "overall": 7.9,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 1248,
+            "overall": 7.9,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.9,
+    "display_rate": 2774.19,
+    "display_rate_with_promo": null,
+    "total": 3574.23,
+    "image": "//i.travelapi.com/hotels/1000000/580000/571400/571397/969422f7_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/969422f7_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/f721c6a1_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/8970a8ab_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/5c8c48c5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/44086429_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/dde3d33d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/71e37847_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/6962f566_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/22207412_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571400/571397/535a2c72_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Hotel Zone Beaches",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 5743.83,
+    "savings_amount": 2969.4,
+    "savings_percent": 0.52,
+    "other_sites_prices": {
+      "PCN": 7506.32
+    },
+    "distance": 6.752135038731547,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.000874724029207,
+      "CZM": 39.79156100388737
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0613999",
+    "name": "Omni Cancun Hotel & Villas [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.074811935424805,
+      "longitude": -86.77513885498047,
+      "description": "Near Aquaworld"
+    },
+    "chain": "Omni",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 13,
+      "latest_booking_date": "2022-02-25 12:42 PM UTC",
+      "viewing_count": 1108,
+      "latest_viewing_date": "2022-02-28 02:52 AM UTC",
+      "conversion_score": 0.015455523483740848,
+      "ranking_score": 0.22835912348374085,
+      "revenue_score": 0.005503600000000001,
+      "geography_score": 0.2074,
+      "id": "37023"
+    },
+    "amenities": [
+      131072,
+      2048,
+      134217728,
+      8,
+      1048576,
+      262144
+    ],
+    "nights": 1,
+    "position": 12,
+    "id90": "37023",
+    "displayable_id": "nlymjjjgylqnnnspwnwgnnmqnrm",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 36,
+          "overall": 8.5,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 36,
+            "overall": 8.5,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.5,
+    "display_rate": 3808.21,
+    "display_rate_with_promo": null,
+    "total": 4904.52,
+    "image": "//i.travelapi.com/hotels/1000000/10000/2300/2203/24787565_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/24787565_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/5d41da35_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/991556ba_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/6152e020_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/f0ebf307_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/b1751c07_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/59eb9f1b_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/00873970_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/79741f11_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/2300/2203/8f806dcf_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Aquaworld",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 8661.56,
+    "savings_amount": 4848.0,
+    "savings_percent": 0.56,
+    "other_sites_prices": {
+      "BKG": 12468.45
+    },
+    "distance": 6.823015198947838,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.073731341296601,
+      "CZM": 39.89489049776985
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "061161796",
+    "name": "Now Emerald Cancun [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.04613494873047,
+      "longitude": -86.78343963623047,
+      "description": "Near Delfines Beach"
+    },
+    "chain": "AMR Collection",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      },
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 10,
+      "latest_booking_date": "2022-02-20 15:18 PM UTC",
+      "viewing_count": 209,
+      "latest_viewing_date": "2021-01-12 02:53 AM UTC",
+      "conversion_score": 0.01462503927056279,
+      "ranking_score": 0.2269154392705628,
+      "revenue_score": 0.0048904000000000005,
+      "geography_score": 0.2074,
+      "id": "211902124"
+    },
+    "amenities": [
+      134217728,
+      8
+    ],
+    "nights": 1,
+    "position": 13,
+    "id90": "211902124",
+    "displayable_id": "nlyylyqjlgnsmlppmrppgylqnmmyyjjpgnnryyjnryrsuumlppmrpp",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 472,
+          "overall": 7.5,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 472,
+            "overall": 7.5,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.5,
+    "display_rate": 3322.21,
+    "display_rate_with_promo": null,
+    "total": 4275.57,
+    "image": "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/a8ef3eeb_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/a8ef3eeb_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/928aca9e_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/68d5d811_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/37d6c576_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/5496d52f_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/278c801e_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/e8bce1e7_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/c6a7f415_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/25df82fe_b.jpg",
+      "//i.travelapi.com/hotels/37000000/36890000/36883300/36883288/ad88394a_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Delfines Beach",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 12172.52,
+    "savings_amount": 8867.8,
+    "savings_percent": 0.73,
+    "other_sites_prices": {
+      "EPS": 5660.24,
+      "PCN": 5656.0
+    },
+    "distance": 5.873992791458848,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.065137191281198,
+      "CZM": 37.84250313807457
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "041428588",
+    "name": "Moon Palace Cancún [EPSPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 20.98873,
+      "longitude": -86.85886,
+      "description": "Near Xoximilco"
+    },
+    "chain": "Palace Resorts",
+    "subtotal": 305.27,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 15,
+      "latest_booking_date": "2022-02-19 17:55 PM UTC",
+      "viewing_count": 910,
+      "latest_viewing_date": "2021-01-12 02:01 AM UTC",
+      "conversion_score": 0.017190864359307306,
+      "ranking_score": 0.22661446435930732,
+      "revenue_score": 0.0020236,
+      "geography_score": 0.2074,
+      "id": "801038586"
+    },
+    "amenities": [
+      2048,
+      134217728,
+      8,
+      1048576,
+      262144
+    ],
+    "nights": 1,
+    "position": 14,
+    "id90": "801038586",
+    "displayable_id": "nsysrpwppgnlwyplgylqnnrljnmjgnnpnynmpwpluusrpwpp",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.5,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 179,
+          "overall": 7.8,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 179,
+            "overall": 7.8,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.8,
+    "display_rate": 6207.34,
+    "display_rate_with_promo": null,
+    "total": 7684.85,
+    "image": "//i.travelapi.com/hotels/1000000/430000/428600/428588/771fad9d_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/771fad9d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/054104dd_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/6a33ee4c_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/c9445048_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/b9d179d5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/f81802b8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/w3597h2401x0y0-ff635a35_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/4204b024_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/40fc5102_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428588/dc731962_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Xoximilco",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      6277579
+    ],
+    "retail_rate": 33715.01,
+    "savings_amount": 27512.4,
+    "savings_percent": 0.82,
+    "other_sites_prices": {
+      "EPS": 11749.33,
+      "PCN": 7064.14
+    },
+    "distance": 3.706530354246534,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 3.5115083123549327,
+      "CZM": 32.969459703495154
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": [
+      {
+        "name": "TAX_RECOVERY_CHARGES",
+        "description": "Tax Recovery Charges and Service Fees",
+        "amount": 65.05,
+        "currency": "USD",
+        "included": false,
+        "hotel_collect": false
+      },
+      {
+        "name": "RECOVER_FEE",
+        "description": "affiliate service charge",
+        "amount": 8.094,
+        "included": false,
+        "hotel_collect": false
+      }
+    ],
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161702341882",
+    "name": "Crown Paradise Club Cancun",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.056183,
+      "longitude": -86.780462,
+      "description": "Near Delfines Beach"
+    },
+    "chain": "Independent",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "booking_count": 22,
+      "latest_booking_date": "2022-02-23 23:59 PM UTC",
+      "viewing_count": 871,
+      "latest_viewing_date": "2022-02-28 02:40 AM UTC",
+      "conversion_score": 0.027050736477065993,
+      "ranking_score": 0.226435536477066,
+      "revenue_score": 0.0080152,
+      "geography_score": 0.2074,
+      "rate_stats_factor": -1.0,
+      "id": "32756"
+    },
+    "amenities": [
+      134217728,
+      256,
+      128
+    ],
+    "nights": 1,
+    "position": 15,
+    "id90": "32756",
+    "displayable_id": "ylyqnrmsypprgnsjslwgnlwsnmgnnmrqwluujslw",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 3.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 3.5,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 3.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 179,
+          "overall": 7.2,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 7.2,
+            "overallCategory": "very_good",
+            "provider": "PCN"
+          },
+          {
+            "count": 179,
+            "overall": 7.2,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 3.0,
+    "review_rating": 7.2,
+    "display_rate": 4592.67,
+    "display_rate_with_promo": null,
+    "total": 5807.22,
+    "image": "//mobileimg.priceline.com/htlimg/1336/1336905/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/a6efbf79_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/c08c332a_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/527cd694_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/92acd2b7_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/d5bd0e67_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/c0a0aec9_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/edb09f9d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/25c6f54a_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/d4d54fb3_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/9500/9465/41f1950f_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Delfines Beach",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 10004.25,
+    "savings_amount": 5413.6,
+    "savings_percent": 0.54,
+    "other_sites_prices": {
+      "EPS": 6002.63,
+      "PCN": 5715.99
+    },
+    "distance": 6.149902253260169,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.366010591862623,
+      "CZM": 38.56277979339934
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0618567",
+    "name": "The Royal Sands Resort & SPA [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.097930908203125,
+      "longitude": -86.76622009277344,
+      "description": "Near Luxury Avenue Shopping Mall"
+    },
+    "chain": "The Royal Resorts",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 10,
+      "latest_booking_date": "2022-02-20 16:09 PM UTC",
+      "viewing_count": 564,
+      "latest_viewing_date": "2022-02-28 02:44 AM UTC",
+      "conversion_score": 0.013114439231565942,
+      "ranking_score": 0.22634883923156596,
+      "revenue_score": 0.0058344,
+      "geography_score": 0.2074,
+      "id": "31271"
+    },
+    "amenities": [
+      8
+    ],
+    "nights": 1,
+    "position": 16,
+    "id90": "31271",
+    "displayable_id": "nlypwlqgylqnnyqjrlrgnnmyrqy",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 245,
+          "overall": 8.5,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 245,
+            "overall": 8.5,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.5,
+    "display_rate": 4070.36,
+    "display_rate_with_promo": null,
+    "total": 5243.76,
+    "image": "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/5b84d780_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/5b84d780_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/6dcca517_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/dd5b3186_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/a78ab881_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/55302163_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/c5430ebd_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/a0a78eaa_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/2286f7e6_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/814581d7_b.jpg",
+      "//i.travelapi.com/hotels/2000000/1140000/1139400/1139341/6fda3e22_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Luxury Avenue Shopping Mall",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 6877.15,
+    "savings_amount": 2787.6,
+    "savings_percent": 0.41,
+    "other_sites_prices": {
+      "PCN": 7885.47
+    },
+    "distance": 8.023739765738387,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 8.299527627504597,
+      "CZM": 41.58657360404077
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "061183273",
+    "name": "Secrets The Vine Cancun Resort & Spa - Adults Only [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.09042739868164,
+      "longitude": -86.76948547363281,
+      "description": "In Cancun (Zona Hotelera)"
+    },
+    "chain": "AMR Collection",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      },
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 9,
+      "latest_booking_date": "2022-02-23 14:47 PM UTC",
+      "viewing_count": 1414,
+      "latest_viewing_date": "2022-02-28 02:21 AM UTC",
+      "conversion_score": 0.010327053441250926,
+      "ranking_score": 0.22590929344125094,
+      "revenue_score": 0.010227800000000002,
+      "geography_score": 0.2074,
+      "rate_stats_factor": 0.8,
+      "hotelAttributes": {
+        "adultsOnly": true
+      },
+      "id": "53378"
+    },
+    "amenities": [
+      131072,
+      134217728,
+      8,
+      1048576,
+      262144
+    ],
+    "nights": 1,
+    "position": 17,
+    "id90": "53378",
+    "displayable_id": "nlyypmrqmgnswnwrmspgylqnnrsqrjngnnwmmqpuuwnwrmsp",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 5.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 5.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 428,
+          "overall": 8.7,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 428,
+            "overall": 8.7,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 5.0,
+    "review_rating": 8.7,
+    "display_rate": 7552.09,
+    "display_rate_with_promo": null,
+    "total": 9749.51,
+    "image": "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/10ef3ba3_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/10ef3ba3_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/65692b2d_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/f798aca4_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/8601c376_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/4029e5e8_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/09d83985_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/7cb28dee_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/3a3e282b_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/f869e8ee_b.jpg",
+      "//i.travelapi.com/hotels/6000000/5060000/5052400/5052348/6cc278f7_b.jpg"
+    ],
+    "description": null,
+    "location_description": "In Cancun (Zona Hotelera)",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 20409.88,
+    "savings_amount": 12847.2,
+    "savings_percent": 0.63,
+    "other_sites_prices": {
+      "EPS": 13266.35,
+      "PCN": 13256.25
+    },
+    "distance": 7.592049788597905,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.861463898297286,
+      "CZM": 41.031285083837076
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0618242",
+    "name": "InterContinental Presidente Cancun Resort [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.135414123535156,
+      "longitude": -86.75428771972656,
+      "description": "In Cancun (Zona Hotelera)"
+    },
+    "chain": "IHG",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 11,
+      "latest_booking_date": "2022-02-16 08:05 AM UTC",
+      "viewing_count": 690,
+      "latest_viewing_date": "2022-02-28 01:35 AM UTC",
+      "conversion_score": 0.013946306526812578,
+      "ranking_score": 0.22492430652681258,
+      "revenue_score": 0.003578,
+      "geography_score": 0.2074,
+      "id": "33384"
+    },
+    "amenities": [
+      131072,
+      134217728,
+      8,
+      1048576
+    ],
+    "nights": 1,
+    "position": 18,
+    "id90": "33384",
+    "displayable_id": "nlyprsrgnsyrjmqgylqnnnqlqmlgnnmmmpsuuyrjmq",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 452,
+          "overall": 8.1,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 452,
+            "overall": 8.1,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.1,
+    "display_rate": 2442.28,
+    "display_rate_with_promo": null,
+    "total": 3143.73,
+    "image": "//i.travelapi.com/hotels/1000000/20000/13000/12937/c80fa3fa_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/c80fa3fa_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/5b2d37eb_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/2008c181_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/3f70bd1f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/73baecc2_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/1d27f706_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/683a9233_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/c0a86e26_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/a37f8283_b.jpg",
+      "//i.travelapi.com/hotels/1000000/20000/13000/12937/3c0594ca_b.jpg"
+    ],
+    "description": null,
+    "location_description": "In Cancun (Zona Hotelera)",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 5454.0,
+    "savings_amount": 3009.8,
+    "savings_percent": 0.55,
+    "other_sites_prices": {
+      "EPS": 5454.0,
+      "PCN": 5454.0,
+      "BKG": 5454.0
+    },
+    "distance": 10.147856585983758,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.443916466648446,
+      "CZM": 44.28737408371501
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700011733",
+    "name": "Marriott Cancun Resort [PCNPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.086452,
+      "longitude": -86.771699,
+      "description": "Cancun Hotel Zone South"
+    },
+    "chain": "Marriott",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 11,
+      "latest_booking_date": "2022-02-19 17:28 PM UTC",
+      "viewing_count": 2972,
+      "latest_viewing_date": "2021-01-12 02:55 AM UTC",
+      "conversion_score": 0.010740865882810051,
+      "ranking_score": 0.22398886588281006,
+      "revenue_score": 0.005848,
+      "geography_score": 0.2074,
+      "id": "204465647"
+    },
+    "amenities": [
+      134217728,
+      256
+    ],
+    "nights": 1,
+    "position": 19,
+    "id90": "204465647",
+    "displayable_id": "ylyqnnnyyqmmgnnrnsslwlsq",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.5,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 376,
+          "overall": 8.9,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 8.9,
+            "overallCategory": "excellent",
+            "provider": "PCN"
+          },
+          {
+            "count": 376,
+            "overall": 8.9,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.9,
+    "display_rate": 2654.44,
+    "display_rate_with_promo": null,
+    "total": 3319.47,
+    "image": "//mobileimg.priceline.com/htlimg/601/601202/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/480b1282_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/6ba976ec_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/7f8620c8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/5e4af4a8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/daf6a37d_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/3d417d3e_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/e98e7cec_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/ddf8e62f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/4f6e88f4_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/8400/8385/e496d35c_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone South",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 4221.8,
+    "savings_amount": 1575.6,
+    "savings_percent": 0.37,
+    "other_sites_prices": {
+      "PCN": 4221.8
+    },
+    "distance": 7.342195370475277,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 7.607983095229055,
+      "CZM": 40.729120886986664
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "04123304849",
+    "name": "Dreams Vista Cancun Golf & Spa Resort [EPSPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.177114,
+      "longitude": -86.80761,
+      "description": "Near Puerto Cancun Marina Town Center"
+    },
+    "chain": "AMR Collection",
+    "subtotal": 315.98,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 12,
+      "latest_booking_date": "2022-02-09 18:57 PM UTC",
+      "viewing_count": 769,
+      "latest_viewing_date": "2021-01-12 01:57 AM UTC",
+      "conversion_score": 0.014020933447137195,
+      "ranking_score": 0.2222367334471372,
+      "revenue_score": 0.0008158000000000001,
+      "geography_score": 0.2074,
+      "id": "800574376"
+    },
+    "amenities": [
+      134217728,
+      8,
+      1048576
+    ],
+    "nights": 1,
+    "position": 20,
+    "id90": "800574376",
+    "displayable_id": "nsyrmmnspsjgnllrljnygylqnrspnllpgnnpnnwqsmqluurmmnspsj",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.5,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 249,
+          "overall": 8.7,
+          "overallCategory": "excellent",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 249,
+            "overall": 8.7,
+            "overallCategory": "excellent",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 8.7,
+    "display_rate": 6399.28,
+    "display_rate_with_promo": null,
+    "total": 6465.19,
+    "image": "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/ed077147_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/ed077147_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/3b441baa_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/763dc0cb_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/23be7329_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/da223324_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/e47ea5eb_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/6f7d6ad9_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/4a3e5d6e_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/a4db869b_b.jpg",
+      "//i.travelapi.com/hotels/24000000/23310000/23304900/23304849/1779f747_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near Puerto Cancun Marina Town Center",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      6050863
+    ],
+    "retail_rate": 16563.8,
+    "savings_amount": 10160.6,
+    "savings_percent": 0.61,
+    "other_sites_prices": {
+      "EPS": 8281.8,
+      "PCN": 8282.0
+    },
+    "distance": 10.37892521713003,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.683632065286961,
+      "CZM": 46.348999589050216
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": [
+      {
+        "name": "RECOVER_FEE",
+        "description": "affiliate service charge",
+        "amount": 3.263,
+        "included": false,
+        "hotel_collect": false
+      }
+    ],
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "0611921",
+    "name": "Park Royal Beach Cancun [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.11124610900879,
+      "longitude": -86.7608642578125,
+      "description": "Near La Isla Shopping Mall"
+    },
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 5,
+      "latest_booking_date": "2022-02-14 17:21 PM UTC",
+      "viewing_count": 383,
+      "latest_viewing_date": "2022-02-27 21:08 PM UTC",
+      "conversion_score": 0.00695616382183691,
+      "ranking_score": 0.2216133638218369,
+      "revenue_score": 0.0072572,
+      "geography_score": 0.2074,
+      "id": "27213"
+    },
+    "amenities": [
+      2048,
+      134217728,
+      8,
+      1048576
+    ],
+    "nights": 1,
+    "position": 21,
+    "id90": "27213",
+    "displayable_id": "nlyyjrygnnrqrym",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 207,
+          "overall": 7.2,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 207,
+            "overall": 7.2,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.2,
+    "display_rate": 5197.88,
+    "display_rate_with_promo": null,
+    "total": 6702.89,
+    "image": "//i.travelapi.com/hotels/1000000/580000/571500/571410/c6b88373_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/c6b88373_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/ded64eb8_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/b6178b71_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/e5828472_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/91541793_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/5f12926b_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/83b4e004_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/2680ed52_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/b7e8230f_b.jpg",
+      "//i.travelapi.com/hotels/1000000/580000/571500/571410/11580d2e_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Near La Isla Shopping Mall",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": null,
+    "savings_amount": null,
+    "savings_percent": null,
+    "other_sites_prices": null,
+    "distance": 8.80165365220897,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 9.086347941205107,
+      "CZM": 42.564797775430335
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "061130214",
+    "name": "Krystal Cancun [HBDPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": null,
+      "region": null,
+      "latitude": 21.134292602539062,
+      "longitude": -86.74447631835938,
+      "description": "In Cancun (Zona Hotelera)"
+    },
+    "chain": "Grupo Hotelero Santa Fe",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "hbd_exclusive_deal",
+        "type": "hbd_exclusive_deal",
+        "name": "Exclusive Deal",
+        "message": "Exclusive Deal",
+        "discountPromotion": false
+      },
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 7,
+      "latest_booking_date": "2022-02-27 08:59 AM UTC",
+      "viewing_count": 1094,
+      "latest_viewing_date": "2022-02-28 02:21 AM UTC",
+      "conversion_score": 0.008348119745355879,
+      "ranking_score": 0.21861791974535588,
+      "revenue_score": 0.0028698000000000005,
+      "geography_score": 0.2074,
+      "id": "56246"
+    },
+    "amenities": [
+      134217728,
+      8,
+      1048576
+    ],
+    "nights": 1,
+    "position": 22,
+    "id90": "56246",
+    "displayable_id": "nlyymnrysgylqnnnsqjnngnnwlrsl",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 768,
+          "overall": 6.5,
+          "overallCategory": "good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "count": 768,
+            "overall": 6.5,
+            "overallCategory": "good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 6.5,
+    "display_rate": 1840.16,
+    "display_rate_with_promo": null,
+    "total": 2362.77,
+    "image": "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/8d313407_b.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/8d313407_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/7728fc71_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/5a1c1bbd_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/92639aaa_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/38d7592a_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/466125ed_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/1ea10fca_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/55fcae19_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/13b6d07c_b.jpg",
+      "//i.travelapi.com/hotels/28000000/27380000/27370100/27370041/2bc613b2_b.jpg"
+    ],
+    "description": null,
+    "location_description": "In Cancun (Zona Hotelera)",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 3025.94,
+    "savings_amount": 1191.8,
+    "savings_percent": 0.39,
+    "other_sites_prices": {
+      "PCN": 3695.99
+    },
+    "distance": 10.590418307329916,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 10.882441090070799,
+      "CZM": 44.38250655145913
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": null,
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700049120",
+    "name": "The Westin Resort & Spa Cancun [PCNPKG]",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.0394,
+      "longitude": -86.7821,
+      "description": "Cancun Hotel Zone South"
+    },
+    "chain": "Marriott",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": [
+      {
+        "key": "super-saver",
+        "type": "super-saver",
+        "name": "Super Saver",
+        "message": "Super Saver",
+        "discountPromotion": false
+      }
+    ],
+    "feature": {
+      "booking_count": 5,
+      "latest_booking_date": "2022-02-13 17:41 PM UTC",
+      "viewing_count": 686,
+      "latest_viewing_date": "2022-02-28 01:01 AM UTC",
+      "conversion_score": 0.006333316494224158,
+      "ranking_score": 0.21856151649422417,
+      "revenue_score": 0.0048282,
+      "geography_score": 0.2074,
+      "id": "8636"
+    },
+    "amenities": [
+      134217728,
+      256
+    ],
+    "nights": 1,
+    "position": 23,
+    "id90": "8636",
+    "displayable_id": "ylyqnnnsjyrngnnplml",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 1075,
+          "overall": 7.9,
+          "overallCategory": "very_good",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 7.9,
+            "overallCategory": "very_good",
+            "provider": "PCN"
+          },
+          {
+            "count": 1075,
+            "overall": 7.9,
+            "overallCategory": "very_good",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 7.9,
+    "display_rate": 2134.53,
+    "display_rate_with_promo": null,
+    "total": 2665.21,
+    "image": "//mobileimg.priceline.com/htlimg/656/656602/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/10000/100/100/w4000h2663x0y0-23af41c5_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/9030f330_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/d9a8ebfc_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/d003ead3_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/w4000h2662x0y0-4fec6493_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/w4000h2662x0y0-0e3de27b_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/dd4f37cd_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/w4000h2662x0y0-a46d137e_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/9ea7593e_b.jpg",
+      "//i.travelapi.com/hotels/1000000/10000/100/100/702fd2d7_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone South",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 4,
+      "type": "resort"
+    },
+    "neighborhood_ids": [
+      935,
+      6050865
+    ],
+    "retail_rate": 2807.8,
+    "savings_amount": 666.6,
+    "savings_percent": 0.24,
+    "other_sites_prices": {
+      "PCN": 2807.8
+    },
+    "distance": 5.9475191097869216,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.119195940695015,
+      "CZM": 37.41540228425082
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  },
+  {
+    "id": "161700048070",
+    "name": "Sun Palace Couples Only",
+    "location": {
+      "city": "Cancun",
+      "country": "MX",
+      "state": "QR",
+      "region": null,
+      "latitude": 21.0441,
+      "longitude": -86.7826,
+      "description": "Cancun Hotel Zone South"
+    },
+    "chain": "Palace Resorts",
+    "subtotal": null,
+    "checkin": "2022-09-16",
+    "checkout": "2022-09-17",
+    "promotions": null,
+    "feature": {
+      "viewing_count": 223,
+      "latest_viewing_date": "2022-02-28 03:05 AM UTC",
+      "ranking_score": 0.21795904,
+      "revenue_score": 0.0131988,
+      "geography_score": 0.2074,
+      "rate_stats_factor": 0.8,
+      "id": "22008"
+    },
+    "amenities": [
+      134217728,
+      256,
+      128
+    ],
+    "nights": 1,
+    "position": 24,
+    "id90": "22008",
+    "displayable_id": "ylyqnnnspnqngnssrpwjygnlwypwgnnrrnnpuusrpwjy",
+    "ratings": {
+      "property": {
+        "overallRating": {
+          "type": "star",
+          "value": 4.0,
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "type": "Star",
+            "value": 4.0,
+            "provider": "PCN"
+          },
+          {
+            "type": "star",
+            "value": 4.0,
+            "provider": "ID90"
+          }
+        ]
+      },
+      "guest": {
+        "overallRating": {
+          "count": 54,
+          "overall": 9.0,
+          "overallCategory": "exceptional",
+          "provider": "ID90"
+        },
+        "ratings": [
+          {
+            "overall": 9.0,
+            "overallCategory": "exceptional",
+            "provider": "PCN"
+          },
+          {
+            "count": 54,
+            "overall": 9.0,
+            "overallCategory": "exceptional",
+            "provider": "ID90"
+          }
+        ]
+      }
+    },
+    "star_rating": 4.0,
+    "review_rating": 9.0,
+    "display_rate": 7834.19,
+    "display_rate_with_promo": null,
+    "total": 9921.31,
+    "image": "//mobileimg.priceline.com/htlimg/1892/1892203/thumbnail-300.jpg",
+    "images": [
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/522f94a6_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/7d5cccc0_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/736c4631_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/c1ac594c_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/54c16002_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/159ff7c9_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/435a68e9_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/95b70412_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/ad9a9967_b.jpg",
+      "//i.travelapi.com/hotels/1000000/430000/428600/428591/8d9b1f48_b.jpg"
+    ],
+    "description": null,
+    "location_description": "Cancun Hotel Zone South",
+    "discount_promotion": null,
+    "accommodation_type": {
+      "id": 1,
+      "type": "all-inclusive"
+    },
+    "neighborhood_ids": [
+      935,
+      800022,
+      6242085
+    ],
+    "retail_rate": 38901.54,
+    "savings_amount": 31067.6,
+    "savings_percent": 0.8,
+    "other_sites_prices": {
+      "PCN": 8302.4
+    },
+    "distance": 5.9203144072905864,
+    "distance_to_airport": null,
+    "distance_to_airports": {
+      "CUN": 6.105579660456873,
+      "CZM": 37.72058094414117
+    },
+    "number_of_rooms": 1,
+    "total_discount_amount": null,
+    "surcharges": null,
+    "taxes_and_fees": null,
+    "payment_date": "now",
+    "payment_option": null,
+    "token_store": null,
+    "supplier_special_rate_type": null,
+    "experiment_variation": null
+  }
+]
