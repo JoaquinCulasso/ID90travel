@@ -6,7 +6,6 @@ namespace Id90travel\web;
 
 use DI\ContainerBuilder;
 use Id90travel\web\view\View;
-use Exception;
 use Psr\Container\ContainerInterface;
 
 final class App
@@ -22,18 +21,9 @@ final class App
 
     public static function getControllerForFront(mixed $controller)
     {
-//        $controllersByCommands = require APP_DIRECTORY . '/config/controllers.php';
-//        $controllerClass = $controllersByCommands[$controller] ?? null;
-//        var_dump($controller);
-////        if ($controllerClass === null) {
-////            throw new ControllerNotFoundException('controller not found');
-////        }
-        return self::getContainerForFront()->get($controller);//  $this->getContainer()->get();
+        return self::getContainerForFront()->get($controller);
     }
 
-    /**
-     * @throws Exception
-     */
     public static function getContainerForFront(): ContainerInterface
     {
         $containerBuilder = new ContainerBuilder();

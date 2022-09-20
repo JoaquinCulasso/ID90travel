@@ -34,15 +34,6 @@ class AirlineTest extends TestCase
         $airlines = $airlineRestClientImpl->findAllAirlines();
         $this->assertNotEmpty($airlines, 'Array of airlines is empty');
         $this->assertCount(883, $airlines, 'The item number is different');
-
-//        $airlinesDTOs = array();
-//        foreach ($airlines as $value) {
-//            $airlinesDTOs[] =  $airlineMapper->mapToDTO($value);
-//        }
-//        $encode = json_encode($airlinesDTOs);
-//        $this->assertStringContainsString('AMERICAN AIRLINES (AA)', json_encode($airlinesDTOs), 'Not exists AMERICAN AIRLINES (AA)');
-//        $this->assertStringContainsString('AIR AUSTRAL (UU)', json_encode($airlinesDTOs), 'Not exists AIR AUSTRAL (UU)');
-//        $this->assertStringContainsString('VIRGIN ATLANTIC AIRWAYS (VS)', json_encode($airlinesDTOs), 'Not exists VIRGIN ATLANTIC AIRWAYS (VS)');
     }
 
     /**

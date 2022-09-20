@@ -12,9 +12,8 @@ if (!$user) {
 if (!empty($_POST['guests'] && !empty($_POST['checkin']) && !empty($_POST['checkout']) && !empty($_POST['destination']))) {
 
     $hotelController = App::getControllerForFront(HotelController::class);
-//    $_POST['guest'], $_POST['checkin'], $_POST['checkout'], $_POST['destination']
     $hotels = $hotelController->findAllHotels($_POST);
-//    session_start();
+
     $_SESSION['hotels'] = $hotels;
     header("Location: hotel.php");
     exit();

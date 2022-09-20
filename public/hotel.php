@@ -1,13 +1,19 @@
 <?php
-//require_once __DIR__ . '/../bootstrap.php';
+require_once __DIR__ . '/../bootstrap.php';
 session_start();
 $user = $_SESSION["user"];
+
 if (!$user) {
     header("location : /auth.php");
     exit();
 }
 
-$hotels = $_SESSION['hotels'];
+$hotels = $_SESSION["hotels"];
+
+if (!$hotels) {
+    header("search : /auth.php");
+    exit();
+}
 ?>
 
 <!DOCTYPE html>

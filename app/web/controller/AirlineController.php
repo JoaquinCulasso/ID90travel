@@ -7,7 +7,6 @@ namespace Id90travel\web\controller;
 use Id90travel\core\src\main\common\exception\AirlinesNotFoundException;
 use Id90travel\core\src\main\rest\airline\service\ConsultAirline;
 use Id90travel\web\dto\AirlineLoginDTO;
-use Id90travel\web\view\View;
 
 class AirlineController
 {
@@ -22,10 +21,10 @@ class AirlineController
         $this->consultAirline = $consultAirline;
     }
 
-    public function __invoke($request)
-    {
-        $this->findAllAirlines();
-    }
+//    public function __invoke($request)
+//    {
+//        $this->findAllAirlines();
+//    }
 
     /**
      * @return AirlineLoginDTO[]
