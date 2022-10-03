@@ -37,6 +37,6 @@ class UserAuthMapper implements AbstractMapper
                 $T->getRememberMe()
             );
         }
-        throw new DtoToDomainException('Exception converting DOMAIN to DTO userAuth' . $T);
+        throw new DtoToDomainException('Exception converting DOMAIN to DTO userAuth' . $T, 500);
     }
 }

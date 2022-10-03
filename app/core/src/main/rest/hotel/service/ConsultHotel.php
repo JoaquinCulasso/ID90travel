@@ -32,13 +32,22 @@ class ConsultHotel
      */
     public function findAllHotels(HotelFilter $hotelFilter) : array
     {
+        $this->validateFilter($hotelFilter);
         $hotels = $this->hotelClient->findAllHotels($hotelFilter);
         if(empty($hotels)){
             throw new HotelsNotFoundException('Hotels not found');
         }
         return $hotels;
+    }
 
-
+    private function validateFilter(HotelFilter $hotelFilter): void
+    {
+        if($hotelFilter->getGuests() < 1 || $hotelFilter->getGuests() > 4){
+            throw new \DomainException("number guest error, between 1 and 4", 400);
+        }
+        if($hotelFilter->getCheckin() >= $hotelFilter->getCheckout()){
+            throw new \DomainException("checkin date must be less than checkout", 400);
+        }
     }
 
 

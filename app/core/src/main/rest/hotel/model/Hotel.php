@@ -41,7 +41,7 @@ class Hotel
     private int $number_of_rooms;
     private string $total_discount_amount;
     private array $surcharges;
-    private string $taxes_and_fees;
+    private float $taxes_and_fees;
     private string $payment_date;
     private string $payment_option;
     private string $token_store;
@@ -84,14 +84,14 @@ class Hotel
      * @param int $number_of_rooms
      * @param string $total_discount_amount
      * @param array $surcharges
-     * @param string $taxes_and_fees
+     * @param float $taxes_and_fees
      * @param string $payment_date
      * @param string $payment_option
      * @param string $token_store
      * @param string $supplier_special_rate_type
      * @param string $experiment_variation
      */
-    public function __construct(HotelId $id, string $name, Location $location, string $chain, string $checkin, string $checkout, array $promotions, Feature $feature, array $amenities, int $nights, int $position, string $id90, string $displayable_id, float $star_rating, float $review_rating, float $display_rate, string $display_rate_with_promo, float $total, string $image, array $images, string $description, string $location_description, string $discount_promotion, AccommodationType $accommodation_type, array $neighborhood_ids, float $retail_rate, float $savings_amount, float $savings_percent, array $other_sites_prices, float $distance, string $distance_to_airport, DistanceToAirport $distance_to_airports, int $number_of_rooms, string $total_discount_amount, array $surcharges, string $taxes_and_fees, string $payment_date, string $payment_option, string $token_store, string $supplier_special_rate_type, string $experiment_variation)
+    public function __construct(HotelId $id, string $name, Location $location, string $chain, string $checkin, string $checkout, array $promotions, Feature $feature, array $amenities, int $nights, int $position, string $id90, string $displayable_id, float $star_rating, float $review_rating, float $display_rate, string $display_rate_with_promo, float $total, string $image, array $images, string $description, string $location_description, string $discount_promotion, AccommodationType $accommodation_type, array $neighborhood_ids, float $retail_rate, float $savings_amount, float $savings_percent, array $other_sites_prices, float $distance, string $distance_to_airport, DistanceToAirport $distance_to_airports, int $number_of_rooms, string $total_discount_amount, array $surcharges, float $taxes_and_fees, string $payment_date, string $payment_option, string $token_store, string $supplier_special_rate_type, string $experiment_variation)
     {
         $this->id = $id;
         $this->name = $name;
@@ -697,17 +697,17 @@ class Hotel
     }
 
     /**
-     * @return string
+     * @return float
      */
-    public function getTaxesAndFees(): string
+    public function getTaxesAndFees(): float
     {
         return $this->taxes_and_fees;
     }
 
     /**
-     * @param string $taxes_and_fees
+     * @param float $taxes_and_fees
      */
-    public function setTaxesAndFees(string $taxes_and_fees): void
+    public function setTaxesAndFees(float $taxes_and_fees): void
     {
         $this->taxes_and_fees = $taxes_and_fees;
     }

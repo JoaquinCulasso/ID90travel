@@ -56,8 +56,8 @@ class AccommodationTypeDTO
     public static function fromJson($json): AccommodationTypeDTO
     {
         return new self(
-            $json['id'],
-            $json['type']
+            $json['id'] ?? 0,
+            $json['type'] ?? ''
         );
 
     }

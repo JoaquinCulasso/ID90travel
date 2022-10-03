@@ -29,7 +29,7 @@ class LocationMapper implements AbstractMapper
                 $T->getDescription()
             );
         }
-        throw new DtoToDomainException('Exception converting DTO to DOMAIN location ' . $T);
+        throw new DtoToDomainException('Exception converting DTO to DOMAIN location ' . $T, 500);
     }
 
     function mapToEntity(object $T)

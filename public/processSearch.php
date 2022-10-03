@@ -1,7 +1,4 @@
 <?php
-require_once __DIR__ . '/../bootstrap.php';
-use Id90travel\web\App;
-use Id90travel\web\controller\HotelController;
 session_start();
 $user = $_SESSION["user"];
 if (!$user) {
@@ -11,8 +8,16 @@ if (!$user) {
 
 if (!empty($_POST['guests'] && !empty($_POST['checkin']) && !empty($_POST['checkout']) && !empty($_POST['destination']))) {
 
-    $hotelController = App::getControllerForFront(HotelController::class);
-    $hotels = $hotelController->findAllHotels($_POST);
+    $paramData = http_build_query(
+        array(
+            'guests' => $_POST['guests'],
+            'checkin' => $_POST['checkin'],
+            'checkout' => $_POST['checkout'],
+            'destination' => $_POST['destination']
+        )
+    );
+
+    $hotels = json_decode(file_get_contents('http://localhost:8080/hotels/findAllHotels?' .$paramData), true);
 
     $_SESSION['hotels'] = $hotels;
     header("Location: hotel.php");

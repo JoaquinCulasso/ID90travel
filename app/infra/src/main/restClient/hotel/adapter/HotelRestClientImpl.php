@@ -42,11 +42,6 @@ class HotelRestClientImpl implements HotelClient
      */
     function findAllHotels(HotelFilter $hotelFilter): array
     {
-
-        if($hotelFilter->getGuests() < 1 || $hotelFilter->getGuests() > 4){
-            throw new \DomainException("number guest error, between 1 and 4");
-        }
-
         $hotelDTOS = $this->hotelRestClient->findAllHotels($this->hotelFilterMapper->mapToDTO($hotelFilter));
         $hotels = array();
         foreach ($hotelDTOS as $hotel) {

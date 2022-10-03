@@ -24,9 +24,10 @@ class AuthController
     }
 
 
-    public function userAuth(UserAuthDTO $userAuthDTO): bool|string
+    public function userAuth($json)//: bool|string
     {
-        require_once __DIR__ . '/../../../bootstrap.php';
+
+        $userAuthDTO = UserAuthDTO::fromJson($json);
         $userAuth = new UserAuth(
             $userAuthDTO->getAirline(),
             $userAuthDTO->getUsername(),
@@ -37,8 +38,11 @@ class AuthController
         $user = $this->userAuthentication->userAuth($userAuth);
 
         $userDTO = UserDTO::fromDomain($user);
+
         header('Content-Type: application/json; charset=utf-8');
-        return json_encode($userDTO);
+        http_response_code(200);
+        echo json_encode($userDTO);
+        exit();
     }
 
 
