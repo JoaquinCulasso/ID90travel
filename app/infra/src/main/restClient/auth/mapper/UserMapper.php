@@ -67,7 +67,7 @@ class UserMapper implements AbstractMapper
                 $T->getMfaSkipped()
             );
         }
-        throw new DtoToDomainException('Exception converting DTO to DOMAIN user ' . $T);
+        throw new DtoToDomainException('Exception converting DTO to DOMAIN user ' . $T, 500);
     }
 
 

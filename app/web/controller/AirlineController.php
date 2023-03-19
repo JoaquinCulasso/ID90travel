@@ -21,16 +21,11 @@ class AirlineController
         $this->consultAirline = $consultAirline;
     }
 
-//    public function __invoke($request)
-//    {
-//        $this->findAllAirlines();
-//    }
 
     /**
-     * @return AirlineLoginDTO[]
      * @throws AirlinesNotFoundException
      */
-    public function findAllAirlines()
+    public function findAllAirlines(): void
     {
         $airlines = $this->consultAirline->findAllAirlines();
         $display_names = array();
@@ -38,7 +33,10 @@ class AirlineController
             $display_names[] = new AirlineLoginDTO($value->getDisplayName());
         }
 
-        return $display_names;
+        header('Content-Type: application/json; charset=utf-8');
+        http_response_code(200);
+        echo json_encode($display_names);
+        exit();
     }
 
 }

@@ -17,7 +17,12 @@ docker exec -it id_90_travel /bin/sh
 ```bash
 composer install
 ```
-6. run all tests with command
+6. move to the folder public and run the command for launch web app
+```bash
+cd ./public
+php -S localhost:8082
+``` 
+7. run all tests with command
 ```bash
 composer run-tests
 ```

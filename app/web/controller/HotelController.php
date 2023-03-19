@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace Id90travel\web\controller;
 
+use Exception;
+use Id90travel\core\src\main\common\exception\HotelsNotFoundException;
 use Id90travel\core\src\main\rest\hotel\model\HotelFilter;
 use Id90travel\core\src\main\rest\hotel\model\HotelFilterBuilder;
 use Id90travel\core\src\main\rest\hotel\service\ConsultHotel;
@@ -21,33 +23,35 @@ class HotelController
     {
         $this->consultHotel = $consultHotel;
     }
-//int    $guests, string $checkin, string $checkout, string $destination, string $keyword, int $rooms, float $longitude, float $latitude,
-//string $sort_criteria, string $sort_order, int $per_page, int $page, string $currency, float $price_low, float $price_high
-    public function findAllHotels($json): array
+
+    /**
+     * @throws HotelsNotFoundException
+     * @throws Exception
+     */
+    public function findAllHotels($json)
     {
-
         $hotelFilter = $this->buildHotelFilter($json);
-
-//        $hotelFilter = $this->buildHotelFilter($guests, $checkin, $checkout, $destination, $keyword, $rooms, $longitude, $latitude,
-//            $sort_criteria, $sort_order, $per_page, $page, $currency, $price_low, $price_high);
-
         $hotels = $this->consultHotel->findAllHotels($hotelFilter);
-
         $hotelDTOS = array();
         foreach ($hotels as $hotel) {
             $hotelDTOS[] = HotelDTO::fromDomain($hotel);
         }
-        return $hotelDTOS;
+
+        header('Content-Type: application/json; charset=utf-8');
+        http_response_code(200);
+        echo json_encode($hotelDTOS);
+        exit();
     }
 
-//int    $guests, string $checkin, string $checkout, string $destination, string $keyword, int $rooms, float $longitude, float $latitude,
-//string $sort_criteria, string $sort_order, int $per_page, int $page, string $currency, float $price_low, float $price_high
+    /**
+     * @throws Exception
+     */
     private function buildHotelFilter($json): HotelFilter
     {
-        $guests = empty($json['guests']) ? throw new Exception() : (int) $json['guests'];
-        $checkin = empty($json['checkin']) ? throw new \Exception() : $json['checkin'];
-        $checkout = empty($json['checkout']) ? throw new \Exception() : $json['checkout'];
-        $destination = empty($json['destination']) ? throw new \Exception() : $json['destination'];
+        $guests = (int)$json['guests'][0] ?? throw new Exception();
+        $checkin = $json['checkin'] ?? throw new Exception();
+        $checkout = $json['checkout'] ?? throw new Exception();
+        $destination = $json['destination'] ?? throw new Exception();
         $builder = new HotelFilterBuilder($guests, $checkin, $checkout, $destination);
         if (!empty($keyword)) $builder->setKeyword($keyword);
         if (!empty($rooms)) $builder->setRooms($rooms);

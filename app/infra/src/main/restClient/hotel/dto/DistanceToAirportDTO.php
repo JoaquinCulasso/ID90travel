@@ -55,8 +55,8 @@ class DistanceToAirportDTO
     public static function fromJson($json): DistanceToAirportDTO
     {
         return new self(
-            array_key_exists('CUN', $json) ? $json['CUN'] : 0,
-            array_key_exists('CZM', $json) ? $json['CZM'] : 0
+            $json['CUN'] ?? 0,
+            $json['CZM'] ?? 0
         );
     }
 

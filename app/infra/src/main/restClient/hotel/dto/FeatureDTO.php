@@ -211,16 +211,16 @@ class FeatureDTO
     public static function fromJson($json): FeatureDTO
     {
         return new self(
-            array_key_exists('booking_count', $json) ? $json['booking_count'] : 0,
-            array_key_exists('latest_booking_date', $json) ? $json['latest_booking_date'] : '',
-            array_key_exists('viewing_count', $json) ? $json['viewing_count'] : 0,
-            array_key_exists('latest_viewing_date', $json) ? $json['latest_viewing_date'] : '',
-            array_key_exists('conversion_score', $json)  ? $json['conversion_score'] : 0,
-            $json['ranking_score'],
-            $json['revenue_score'],
-            $json['geography_score'],
-            (int)empty($json['best_seller_rank']),
-            array_key_exists('id', $json) ? $json['id'] : ''
+            $json['booking_count'] ?? 0,
+            $json['latest_booking_date'] ?? '',
+            $json['viewing_count'] ?? 0,
+            $json['latest_viewing_date'] ?? '',
+            $json['conversion_score'] ?? 0,
+            $json['ranking_score'] ?? 0,
+            $json['revenue_score'] ?? 0,
+            $json['geography_score'] ?? 0,
+            $json['best_seller_rank'] ?? 0,
+            $json['id'] ?? ''
         );
     }
 

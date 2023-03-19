@@ -26,7 +26,7 @@ class HotelFilterMapper implements AbstractMapper
     /**
      * @throws DomainToDtoException
      */
-    function mapToDTO(object $T)
+    function mapToDTO(object $T): HotelFilterDTO
     {
         if ($T instanceof HotelFilter) {
             $builder = new HotelFilterBuilderDTO(
@@ -50,7 +50,7 @@ class HotelFilterMapper implements AbstractMapper
 
             return $builder->build();
         }
-        throw new DomainToDtoException('Exception converting DOMAIN to DTO hotel filter ' . $T);
+        throw new DomainToDtoException('Exception converting DOMAIN to DTO hotel filter ' . $T, 500);
     }
 
 }

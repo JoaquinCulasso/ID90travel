@@ -6,7 +6,7 @@ namespace Id90travel\infra\src\main\restClient\hotel\dto;
 
 use Id90travel\core\src\main\rest\hotel\model\Hotel;
 
-class HotelDTO
+class HotelDTO implements \JsonSerializable
 {
     private string $id;
     private string $name;
@@ -43,7 +43,7 @@ class HotelDTO
     private int $number_of_rooms;
     private string $total_discount_amount;
     private array $surcharges;
-    private string $taxes_and_fees;
+    private float $taxes_and_fees;
     private string $payment_date;
     private string $payment_option;
     private string $token_store;
@@ -86,14 +86,14 @@ class HotelDTO
      * @param int $number_of_rooms
      * @param string $total_discount_amount
      * @param array $surcharges
-     * @param string $taxes_and_fees
+     * @param float $taxes_and_fees
      * @param string $payment_date
      * @param string $payment_option
      * @param string $token_store
      * @param string $supplier_special_rate_type
      * @param string $experiment_variation
      */
-    public function __construct(string $id, string $name, LocationDTO $location, string $chain, string $checkin, string $checkout, array $promotions, FeatureDTO $feature, array $amenities, int $nights, int $position, string $id90, string $displayable_id, float $star_rating, float $review_rating, float $display_rate, string $display_rate_with_promo, float $total, string $image, array $images, string $description, string $location_description, string $discount_promotion, AccommodationTypeDTO $accommodation_type, array $neighborhood_ids, float $retail_rate, float $savings_amount, float $savings_percent, array $other_sites_prices, float $distance, string $distance_to_airport, DistanceToAirportDTO $distance_to_airports, int $number_of_rooms, string $total_discount_amount, array $surcharges, string $taxes_and_fees, string $payment_date, string $payment_option, string $token_store, string $supplier_special_rate_type, string $experiment_variation)
+    public function __construct(string $id, string $name, LocationDTO $location, string $chain, string $checkin, string $checkout, array $promotions, FeatureDTO $feature, array $amenities, int $nights, int $position, string $id90, string $displayable_id, float $star_rating, float $review_rating, float $display_rate, string $display_rate_with_promo, float $total, string $image, array $images, string $description, string $location_description, string $discount_promotion, AccommodationTypeDTO $accommodation_type, array $neighborhood_ids, float $retail_rate, float $savings_amount, float $savings_percent, array $other_sites_prices, float $distance, string $distance_to_airport, DistanceToAirportDTO $distance_to_airports, int $number_of_rooms, string $total_discount_amount, array $surcharges, float $taxes_and_fees, string $payment_date, string $payment_option, string $token_store, string $supplier_special_rate_type, string $experiment_variation)
     {
         $this->id = $id;
         $this->name = $name;
@@ -699,17 +699,17 @@ class HotelDTO
     }
 
     /**
-     * @return string
+     * @return float
      */
-    public function getTaxesAndFees(): string
+    public function getTaxesAndFees(): float
     {
         return $this->taxes_and_fees;
     }
 
     /**
-     * @param string $taxes_and_fees
+     * @param float $taxes_and_fees
      */
-    public function setTaxesAndFees(string $taxes_and_fees): void
+    public function setTaxesAndFees(float $taxes_and_fees): void
     {
         $this->taxes_and_fees = $taxes_and_fees;
     }
@@ -870,10 +870,10 @@ class HotelDTO
     public static function fromJson($json): HotelDTO
     {
         return new self(
-            array_key_exists('id', $json) ? $json['id'] : '',
+            $json['id'] ?? '',
             $json['name'],
             array_key_exists('location', $json) ? LocationDTO::fromJson($json['location']) : [],
-            array_key_exists('chain', $json) ? $json['chain'] : '',
+            $json['chain'] ?? '',
             $json['checkin'],
             $json['checkout'],
             $json['promotions'] ?? [],
@@ -905,12 +905,59 @@ class HotelDTO
             $json['number_of_rooms'] ?? 0,
             $json['total_discount_amount'] ?? '',
             $json['surcharges'] ?? [],
-            $json['taxes_and_fees'] ?? '',
+            $json['taxes_and_fees'] ?? 0,
             $json['payment_date'] ?? '',
             $json['payment_option'] ?? '',
             $json['token_store'] ?? '',
             $json['supplier_special_rate_type'] ?? '',
             $json['experiment_variation'] ?? ''
         );
+    }
+
+    public function jsonSerialize(): mixed
+    {
+        return [
+            'id' => $this->id,
+            'name' => $this->name,
+            'location' => $this->location,
+            'chain' => $this->chain,
+            'checkin' => $this->checkin,
+            'checkout' => $this->checkout,
+            'promotions' => $this->promotions,
+            'feature' => $this->feature,
+            'amenities' => $this->amenities,
+            'nights' => $this->nights,
+            'position' => $this->position,
+            'id90' => $this->id90,
+            'displayable_id' => $this->displayable_id,
+            'star_rating' => $this->star_rating,
+            'review_rating' => $this->review_rating,
+            'display_rate' => $this->display_rate,
+            'display_rate_with_promo' => $this->display_rate_with_promo,
+            'total' => $this->total,
+            'image' => $this->image,
+            'images' => $this->images,
+            'description' => $this->description,
+            'location_description' => $this->location_description,
+            'discount_promotion' => $this->discount_promotion,
+            'accommodation_type' => $this->accommodation_type,
+            'neighborhood_ids' => $this->neighborhood_ids,
+            'retail_rate' => $this->retail_rate,
+            'savings_amount' => $this->savings_amount,
+            'savings_percent' => $this->savings_percent,
+            'other_sites_prices' => $this->other_sites_prices,
+            'distance' => $this->distance,
+            'distance_to_airport' => $this->distance_to_airport,
+            'distance_to_airports' => $this->distance_to_airports,
+            'number_of_rooms' => $this->number_of_rooms,
+            'total_discount_amount' => $this->total_discount_amount,
+            'surcharges' => $this->surcharges,
+            'taxes_and_fees' => $this->taxes_and_fees,
+            'payment_date' => $this->payment_date,
+            'payment_option' => $this->payment_option,
+            'token_store' => $this->token_store,
+            'supplier_special_rate_type' => $this->supplier_special_rate_type,
+            'experiment_variation' => $this->experiment_variation
+        ];
     }
 }

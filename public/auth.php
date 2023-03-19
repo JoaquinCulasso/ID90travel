@@ -1,10 +1,5 @@
 <?php
-require_once __DIR__ . '/../bootstrap.php';
-use Id90travel\web\App;
-use Id90travel\web\controller\AirlineController;
-
-$airlineController = App::getControllerForFront(AirlineController::class);
-$airlines = $airlineController->findAllAirlines();
+$airlines = json_decode(file_get_contents('http://localhost:8080/airlines/findAllAirlines'), true);
 ?>
 
 <!DOCTYPE html>
@@ -32,7 +27,7 @@ $airlines = $airlineController->findAllAirlines();
             <datalist id="airlines">
                 <?php
                 foreach ($airlines as $airline) {
-                    echo "<option value=" . '"' . $airline->getDisplayName() . '"' . ">";
+                    echo "<option value=" . '"' . $airline['airline'] . '"' . ">";
                 } ?>
             </datalist>
 

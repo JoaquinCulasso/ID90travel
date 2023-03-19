@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace Id90travel\infra\src\main\restClient\auth\dto;
 
+use Id90travel\infra\src\main\common\exception\UserAuthDtoException;
+
 class UserAuthDTO implements \JsonSerializable
 {
 
@@ -88,6 +90,19 @@ class UserAuthDTO implements \JsonSerializable
     public function setRememberMe(string $remember_me): void
     {
         $this->remember_me = $remember_me;
+    }
+
+    /**
+     * @throws UserAuthDtoException
+     */
+    public static function fromJson($json): UserAuthDTO
+    {
+        return new self(
+            $json['airline'] ?? throw new UserAuthDtoException('attribute airline must exist'),
+            $json['username'] ?? throw new UserAuthDtoException('attribute username must exist'),
+            $json['password'] ?? throw new UserAuthDtoException('attribute password must exist'),
+            $json['remember_me'] ?? '0'
+        );
     }
 
     public function jsonSerialize(): mixed
